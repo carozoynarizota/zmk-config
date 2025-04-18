@@ -1,6 +1,6 @@
-if SHIELD_TWO_TEST
+if SHIELD_TWO_KEYS
             
 config ZMK_KEYBOARD_NAME
-    default "two_test"
+    default "two_keys"
 
 endif
