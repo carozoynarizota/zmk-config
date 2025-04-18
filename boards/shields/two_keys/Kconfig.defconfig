@@ -1,0 +1,6 @@
+if SHIELD_TWO_TEST
+            
+config ZMK_KEYBOARD_NAME
+    default "two_test"
+
+endif
