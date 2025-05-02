@@ -1,6 +1,0 @@
-if SHIELD_TWO_KEYS
-            
-config ZMK_KEYBOARD_NAME
-    default "two_keys"
-
-endif

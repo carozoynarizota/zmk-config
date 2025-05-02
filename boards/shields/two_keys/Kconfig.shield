@@ -1,2 +1,0 @@
-config SHIELD_TWO_KEYS
-    def_bool $(shields_list_contains, two_keys)
